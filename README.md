@@ -1,2 +1,2 @@
 # NGUISampleProject2
-NGUISampleProject2
+Unity NGUI Sample Project
